@@ -1,7 +1,7 @@
 #include "blockchain.h"
 
 /* GENESIS_BLOCK - first block in the blockchain */
-#define GENESIS_BLOCK                                                          \
+#define GENESIS_BLOCK                                                \
 	{                                                                      \
 	    {                                                                  \
 		0 /* index */,                                                 \
